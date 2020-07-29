@@ -30,7 +30,7 @@ Depolyed using Heroku.
 
 * **Meredith Barnett** - *back-end* - [mbarnetttx](https://github.com/mbarnetttx)
 
-* **Tanisha Howell** - *User Authentication*-[tanishahowell](https://github.com/tanishahowell) 
+* **Tanisha Howell** - *User Authentication*-[tanishaCodes](https://github.com/tanishacodes) 
 
 * **Yensey Murillo** - *front-end* - [Yenseydm](https://github.com/yenseydm)
 
